@@ -61,7 +61,6 @@ IoT-Based-Tunnel-Inspection-Rover-using-ESP32
 ---
 
 ## Author
-
-GUNAPRASANTH PASUPULETI
+AJITH RADHANDI
 
 Embedded Systems / IoT Project
